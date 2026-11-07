@@ -1,0 +1,6 @@
+{
+  "name": "Mafs Math Graph Playground & Django Exporter",
+  "description": "Visual interactive math playground to plot mathematical graphs and geometric figures with Mafs, test KaTeX markdown, and export ready-to-paste code blocks for Django.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
